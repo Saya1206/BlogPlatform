@@ -33,7 +33,7 @@ export default function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/BlogPlatform">
       <Navbar user={user} />
       <Routes>
         <Route path="/" element={user ? <Home /> : <Navigate to="/auth" />} />
