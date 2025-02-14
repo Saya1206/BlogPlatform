@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BlogPlatform/static/css/main.3da9a494.css",
+    "main.js": "/BlogPlatform/static/js/main.f0377203.js",
+    "static/js/488.a775275b.chunk.js": "/BlogPlatform/static/js/488.a775275b.chunk.js",
+    "static/media/wave.png": "/BlogPlatform/static/media/wave.40d1887aeaea7ecd70cb.png",
+    "static/media/sports.jpg": "/BlogPlatform/static/media/sports.6155ef813ab64ffe6aa9.jpg",
+    "static/media/blog4.jpg": "/BlogPlatform/static/media/blog4.2421b220b5a952d444f3.jpg",
+    "static/media/bg.png": "/BlogPlatform/static/media/bg.949e27314c838c50c7d7.png",
+    "static/media/travel1.jpg": "/BlogPlatform/static/media/travel1.cd111b61ea6c9624ec88.jpg",
+    "static/media/nature1.jpg": "/BlogPlatform/static/media/nature1.0a4ab7d016624a3c07fc.jpg",
+    "static/media/family.jpg": "/BlogPlatform/static/media/family.c821c372941a6f0dfa4b.jpg",
+    "static/media/success.jpg": "/BlogPlatform/static/media/success.13358b6fc42bcf405caf.jpg",
+    "static/media/slick.svg": "/BlogPlatform/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BlogPlatform/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BlogPlatform/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BlogPlatform/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BlogPlatform/index.html",
+    "main.3da9a494.css.map": "/BlogPlatform/static/css/main.3da9a494.css.map",
+    "main.f0377203.js.map": "/BlogPlatform/static/js/main.f0377203.js.map",
+    "488.a775275b.chunk.js.map": "/BlogPlatform/static/js/488.a775275b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da9a494.css",
+    "static/js/main.f0377203.js"
+  ]
+}
